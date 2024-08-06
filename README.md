@@ -22,7 +22,7 @@ Welcome to my GitHub portfolio! I'm Omer Iqbal, a passionate software developer.
 
 ## 📫 Contact Information
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:omeriqbal7@hotmail.com)
+[![Email](https://img.shields.io/badge/-Email-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:omeriqbal7@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/omer6000)
 
 ## 🔥 Experience
