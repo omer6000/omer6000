@@ -141,5 +141,5 @@ Relevant Courses: Security, Web Security, Privacy-Enhancing Technologies, Softwa
 
 ![Apache NiFi](https://img.shields.io/badge/-Apache%20NiFi-003A63?style=flat&logo=Apache-NiFi&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat&logo=Apache-Airflow&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/-Amazon%20S3-569A31?style=flat&logo=Amazon-S3
+![Amazon S3](https://img.shields.io/badge/-Amazon%20S3-569A31?style=flat&logo=Amazon-S3)
 ![Microsoft Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=Microsoft-Azure&logoColor=white)
