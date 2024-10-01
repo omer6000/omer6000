@@ -64,7 +64,7 @@ Relevant Courses: Security, Web Security, Privacy-Enhancing Technologies, Softwa
 
 - Developing a Visual Studio Code extension using TypeScript, Flask, and the VS Code extension API to generate PlantUML software model diagrams with the assistance of OpenAI's GPT API.
 - Leveraging a Flask-based backend to handle RESTful API requests and facilitate communication between the VS Code extension and the OpenAI API.
-- Implementing a frontend interface using ReactJS for a user-friendly experience in managing and visualizing software model diagrams.
+- Implementing a frontend interface using Angular for a user-friendly experience in managing and visualizing software model diagrams.
 
 ### Hydac GPT
 *May 2024 - July 2024*
