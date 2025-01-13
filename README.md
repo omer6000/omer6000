@@ -15,131 +15,83 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 # Omer Iqbal's Portfolio
 
-Welcome to my GitHub portfolio! I'm Omer Iqbal, a passionate software developer. I am currently pursuing my M.Sc. in Computer Science at Saarland University and working as a developer at the CISPA Helmholtz Center for Information Security.
+Welcome to my GitHub portfolio! I'm Omer Iqbal, a passionate software developer. I am currently pursuing my M.Sc. in Computer Science at Saarland University and working as a software developer at InputLab.
 
 ## 📫 Contact Information
 
 [![Email](https://img.shields.io/badge/-Email-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:omeriqbal7@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/omer6000)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/omer6000)
+
+---
 
 ## 🔥 Experience
 
-### Working Student Developer
+### Working Student Software Developer  
+**InputLab**  
+*Nov 2024 – Present | Saarbrücken, Germany*  
+- Developing a data management application and API framework to provide test data for bug and vulnerability detection.
+- Utilizing React.js, Python with FastAPI, and Docker while following secure coding standards, clean code practices, and unit testing.
+- Collaborating in a startup environment with cross-functional teams using GitLab, demonstrating project ownership and teamwork.
+
+### Working Student Software Developer  
 **CISPA Helmholtz Center for Information Security**  
-*May 2023 - Present | Saarbrücken, Germany*
+*May 2023 – Oct 2024 | Saarbrücken, Germany*  
+- Contributed to projects funded by grants totaling over €2.5 million.
+- Designed and maintained applications using Vue.js, Node.js, Python, Flask, MySQL, Docker, and Elasticsearch, enhancing scalability and performance.
+- Created project templates supporting 60+ students in the Privacy-Enhancing Technologies course.
 
-- Developed and maintained a privacy-focused data-sharing application using Vue.js, Node.js, Python, Flask, MySQL, and Docker.
-- Enhanced query response by 50% with Elasticsearch integration.
-- Developed project skeleton codes for a Privacy-Enhancing Technologies course with over 60 students.
-- Conducted research on privacy-preserving techniques such as differential privacy and anonymous communication frameworks like Tor Networks.
-
-### Junior Software Developer
+### Junior Software Engineer  
 **Systems Limited**  
-*July 2021 - September 2022 | Lahore, Pakistan*
+*Aug 2021 – July 2022 | Lahore, Pakistan*  
+- Worked on a $5 million project for a leading US pharmaceutical company.
+- Developed RESTful APIs ingesting over 2 million data points from patient devices.
+- Automated workflows with 80+ Airflow DAGs in Python, managing data in AWS S3.
+- Reduced manual intervention by 30% through CI/CD pipelines using Jenkins, Java, and Bitbucket.
 
-- Worked on a $5 million project for a leading US pharmaceutical company to develop a patient data analysis system.
-- Developed RESTful APIs to ingest over 2 million data points from patient devices.
-- Created 80+ Airflow DAGs in Python for workflow automation and data storage management in AWS S3.
-- Implemented unit tests and CI/CD pipelines using Jenkins, Java, and Bitbucket, reducing manual intervention by 30%.
+---
 
 ## 🎓 Education
 
-### Saarland University
-*Oct 2022 - Present*  
-**M.Sc. Computer Science**  
-Grade: 2.3  
-Relevant Courses: Security, Web Security, Privacy-Enhancing Technologies, Software Engineering, and more.
+### Saarland University  
+*Oct 2022 – Ongoing*  
+**M.Sc. Computer Science** (Grade: 2.1)  
+Relevant Courses: Security, Web Security, Attacks Against Machine Learning Models, Privacy-Enhancing Technologies, and more.
 
-### Lahore University of Management Sciences
-*Aug 2017 - May 2021*  
+### Lahore University of Management Sciences  
+*Aug 2017 – May 2021*  
 **B.Sc. Computer Science**
+
+---
 
 ## 🛠️ Projects
 
-### Master’s Thesis: Software Engineering Lab
-*April 2024 - Ongoing*
+### Master’s Thesis: Software Engineering Lab  
+*April 2024 – Ongoing*  
+- Developing a React-based web application to enhance and complete partially defined software models represented as XML.
+- Utilizing Flask for backend communication between the React frontend and the OpenAI API for model completion.
 
-- Developing a Visual Studio Code extension using TypeScript, Flask, and the VS Code extension API to generate PlantUML software model diagrams with the assistance of OpenAI's GPT API.
-- Leveraging a Flask-based backend to handle RESTful API requests and facilitate communication between the VS Code extension and the OpenAI API.
-- Implementing a frontend interface using Angular for a user-friendly experience in managing and visualizing software model diagrams.
-
-### Hydac GPT
-*May 2024 - July 2024*
-
+### Hydac GPT  
+*May 2024 – July 2024*  
 - Integrated an AI-powered chatbot using Microsoft Azure API and Python.
 - Implemented Elasticsearch for efficient document storage.
-- Developed a user-friendly web app using Streamlit for AI chatbot interaction.
+- Developed an interactive web app using Streamlit.
 
-### Web Security
-*May 2023 - July 2023*
-
-- Fixed security vulnerabilities and completed capture-the-flag challenges.
-- Addressed security flaws related to XSS, CSP, cross-origin attacks, and more.
-- Tackled vulnerabilities in PHP for server-side applications and Python/Django for client-side applications.
+---
 
 ## 📜 Skills & Certifications
 
-**Languages:**
-- English (C2)
-- German (A2)
+**Certifications:**  
+- React Basics by Meta  
+- Angular - The Complete Guide by Udemy  
 
-**Technical Skills:**
+**Languages:**  
+- English (C2)  
+- German (A2)  
 
-### Programming Languages:
+**Technical:**  
+C, C++, C#, Rust, Java, Scala, Haskell, Go, Python, JavaScript, TypeScript, PHP, HTML, CSS, SCSS, React.js, Angular, Vue.js, Django, Flask, Node.js, FastAPI, Docker, SQL, Firebase, MongoDB, Elasticsearch, Azure, OpenAI API, Apache Airflow, and more.
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=C-Sharp&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=Rust&logoColor=white)
-![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat&logo=Scala&logoColor=white)
-![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat&logo=Haskell&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=Go&logoColor=white)
-
-### Frontend Development:
-
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
-![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=Sass&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=black)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=Angular&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white)
-
-### Backend Development:
-
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=PHP&logoColor=white)
-
-
-### Databases:
-
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=Firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
-![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=MariaDB&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=SQLite&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat&logo=Elasticsearch&logoColor=white)
-
-### Tools:
-
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
-![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=Ansible&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=Jira&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
-![OpenAI API](https://img.shields.io/badge/-OpenAI%20API-412991?style=flat&logo=OpenAI&logoColor=white)
-
-### Cloud and Data:
-
-![Apache NiFi](https://img.shields.io/badge/-Apache%20NiFi-003A63?style=flat&logo=Apache-NiFi&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat&logo=Apache-Airflow&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/-Amazon%20S3-569A31?style=flat&logo=Amazon-S3)
-![Microsoft Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=Microsoft-Azure&logoColor=white)
+---
