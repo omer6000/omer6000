@@ -45,7 +45,7 @@ Welcome to my GitHub portfolio! I'm Omer Iqbal, a passionate software developer.
 
 ### Junior Software Engineer  
 **Systems Limited**  
-*Aug 2021 – July 2022 | Lahore, Pakistan*  
+*July 2021 – Sept 2022 | Lahore, Pakistan*  
 - Worked on a $5 million project for a leading US pharmaceutical company.
 - Developed RESTful APIs ingesting over 2 million data points from patient devices.
 - Automated workflows with 80+ Airflow DAGs in Python, managing data in AWS S3.
