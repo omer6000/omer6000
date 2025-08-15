@@ -29,14 +29,14 @@ Welcome to my GitHub portfolio! I'm Omer Iqbal, a passionate software developer.
 
 ## 🔥 Experience
 
-### Working Student Software Developer  
+### Software Developer  
 **InputLab**  
 *Nov 2024 – Present | Saarbrücken, Germany*  
 - Developing a data management application and API framework to provide test data for bug and vulnerability detection.
 - Utilizing React.js, Python with FastAPI, and Docker while following secure coding standards, clean code practices, and unit testing.
 - Collaborating in a startup environment with cross-functional teams using GitLab, demonstrating project ownership and teamwork.
 
-### Working Student Software Developer  
+### Software Developer  
 **CISPA Helmholtz Center for Information Security**  
 *May 2023 – Oct 2024 | Saarbrücken, Germany*  
 - Contributed to projects funded by grants totaling over €2.5 million.
