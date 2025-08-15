@@ -29,7 +29,7 @@ Welcome to my GitHub portfolio! I'm Omer Iqbal, a passionate software developer.
 
 ## 🔥 Experience
 
-### Software Developer  
+### Software Engineer  
 **InputLab**  
 *Nov 2024 – Present | Saarbrücken, Germany*  
 - Developing a data management application and API framework to provide test data for bug and vulnerability detection.
@@ -39,9 +39,12 @@ Welcome to my GitHub portfolio! I'm Omer Iqbal, a passionate software developer.
 ### Software Developer  
 **CISPA Helmholtz Center for Information Security**  
 *May 2023 – Oct 2024 | Saarbrücken, Germany*  
+- Developed full-stack applications as a Software Developer at Europe's leading cybersecurity research institute.
 - Contributed to projects funded by grants totaling over €2.5 million.
-- Designed and maintained applications using Vue.js, Node.js, Python, Flask, MySQL, Docker, and Elasticsearch, enhancing scalability and performance.
-- Created project templates supporting 60+ students in the Privacy-Enhancing Technologies course.
+- Built responsive frontend interfaces using Vue.js and robust backend systems with Node.js and Python/Flask.
+- Designed and optimized MySQL database architecture for large-scale research data processing.
+- Implemented Docker containerization to streamline development workflows and deployment processes. 
+- Integrated Elasticsearch for advanced search capabilities and data analytics in cybersecurity research projects.
 
 ### Junior Software Engineer  
 **Systems Limited**  
