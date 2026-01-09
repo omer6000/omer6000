@@ -32,18 +32,20 @@ Welcome to my GitHub portfolio! I'm Omer Iqbal, a passionate software developer.
 ### Software Engineer  
 **InputLab**  
 *Nov 2024 – Present | Saarbrücken, Germany*  
-- Developing a data management application and API framework to provide test data for bug and vulnerability detection.
-- Utilizing React.js, Python with FastAPI, and Docker while following secure coding standards, clean code practices, and unit testing.
-- Collaborating in a startup environment with cross-functional teams using GitLab, demonstrating project ownership and teamwork.
+- Developed user-friendly front-end interfaces with React.js and Next.js, adhering to key design principles.
+- Designed and developed scalable APIs using both GraphQL and REST methodologies with FastAPI to power front-end applications and manage core business logic.
+- Built n8n automation workflows to connect internal services.
+- Managed the deployment pipeline for key projects, containerizing applications with Docker and overseeing production environments on Coolify.
+- Owned the end-to-end development of new features, managing project progress in Jira and ensuring code quality using version control best practices in GitLab.
+- Guided product decisions and MVP development by conducting customer interviews to identify and analyze user pain points and market gaps.
 
 ### Software Developer  
 **CISPA Helmholtz Center for Information Security**  
 *May 2023 – Oct 2024 | Saarbrücken, Germany*  
 - Developed full-stack applications as a Software Developer at Europe's leading cybersecurity research institute.
-- Contributed to projects funded by grants totaling over €2.5 million.
 - Built responsive frontend interfaces using Vue.js and robust backend systems with Node.js and Python/Flask.
 - Designed and optimized MySQL database architecture for large-scale research data processing.
-- Implemented Docker containerization to streamline development workflows and deployment processes. 
+- Implemented Docker containerization to streamline development workflows and deployment processes.  
 - Integrated Elasticsearch for advanced search capabilities and data analytics in cybersecurity research projects.
 
 ### Junior Software Engineer  
